@@ -2,6 +2,8 @@
 // Welcome to the 1st Exercise Sheet: Warm Up! //
 /////////////////////////////////////////////////
 
+// SOME EXTRA TEXT.
+
 // Note: this code is relevant for the editor Visual Studio Code.
 
 // All the text that follows a double "slash", that is //, is a comment.
