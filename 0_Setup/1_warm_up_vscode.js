@@ -35,13 +35,15 @@
 // On Mac : Shift + Option + F
 // On Linux : Ctrl + Shift + I
 
-    let a=              1234    ;
-    a++;
-                    if (  a > 123 ) {
+let a = 1234;
+a++;
+if (a > 123) {
     a--;
-            }
-                                                else a++
-            console.log(a);
+}
+else {
+    a++
+}
+console.log(a);
 
 // Nothing happened? 
 // If so, your code (technically my code, if you just cloned it)
@@ -92,7 +94,7 @@
 // Hint: follow the pattern.
 a = 1
 b = 2
-c.= 3
+c = 3
 
 // Hint: This function has no name following the word function.
 function(notUsed) {
